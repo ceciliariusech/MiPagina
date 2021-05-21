@@ -1,0 +1,118 @@
+* {
+	font-family: sans-serif;
+}
+
+ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+	box-shadow: 1px 1px 10px lightgrey;
+	position: relative;
+	background: white;
+}
+
+li {
+	list-style: none;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.body {
+	background: #F8F8FF;
+	margin-top: -15px;
+}
+
+.about {
+	margin-left: 220px;
+	position: absolute;
+	margin-top: 30px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #F08080;
+}
+
+.flex-container {
+	display: flex;
+}
+
+.ceci {
+	height: 400px;
+	border-radius: 10px;
+	margin-left: 130px;
+	margin-top: 100px;
+	margin-right: 100px;
+}
+
+.contenedor {
+	margin-top: 80px;
+	margin-right: 200px;
+}
+
+.hey {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 90px;
+	color: #F08080;
+	margin: 0px;
+}
+
+.parrafo {
+	line-height: 25px;
+}
+
+/*
+.img-skills {
+	height: 500px;
+	position: absolute;
+	margin-left: -40px;
+	margin-top: 5px;
+}
+*/
+
+
+h2 {
+	margin-left: 220px;
+	margin-top: 150px;
+	margin-bottom: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #F08080;
+}
+
+
+.flex-skills {
+	display: flex;
+}
+
+.img-skills {
+	margin-top: 1px;
+	height: 500px;
+	margin-left: 160px;
+}
+
+.html, .css {
+	height: 80px;
+	margin: 5px;
+}
+
+.ai {
+	height: 68px;
+	margin-bottom: 9px;
+	margin: 8px;
+}
+
+.div-html {
+	display: flex;
+	justify-content: center;
+	margin-left: 150px;
+}
