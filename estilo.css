@@ -79,40 +79,29 @@ h1 {
 }
 */
 
+.rosa {
+	background: #F08080;
+	height: 300px;
+	margin-top: 80px;
+}
 
 h2 {
-	margin-left: 220px;
-	margin-top: 150px;
-	margin-bottom: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #F08080;
+	color: #FFFFFF;
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 50px;
 }
 
-
-.flex-skills {
-	display: flex;
-}
-
-.img-skills {
-	margin-top: 1px;
-	height: 500px;
-	margin-left: 160px;
-}
-
-.html, .css {
-	height: 80px;
-	margin: 5px;
-}
-
-.ai {
-	height: 68px;
-	margin-bottom: 9px;
-	margin: 8px;
+.skills {
+	height: 130px;
+	margin-top: 120px;
+	margin-left: 40px;
+	margin-right: 40px;
 }
 
 .div-html {
 	display: flex;
 	justify-content: center;
-	margin-left: 150px;
 }
